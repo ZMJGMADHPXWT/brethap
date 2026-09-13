@@ -1,4 +1,0 @@
-Release version: 1.7.9+84
-* Add method for sharing app
-* Add Turkish language support
-* Other minor enhancements

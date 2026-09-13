@@ -1,4 +1,0 @@
-Release version: 1.4.2+29
-* Enable internationalization
-* Added spanish translations
-* Minor enhancements

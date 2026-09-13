@@ -1,4 +1,0 @@
-Release version: 1.7.6+74
-* Add Dutch translations
-* Optimized png files
-* Other minor enhancements

@@ -1,2 +1,0 @@
-* Add preference name
-* Minor enhancements

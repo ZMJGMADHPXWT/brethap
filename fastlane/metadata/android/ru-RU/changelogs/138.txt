@@ -1,3 +1,0 @@
-Release version: 1.8.5+138
-* Removed network permission
-* Other minor enhancements
