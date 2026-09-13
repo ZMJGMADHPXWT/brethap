@@ -1,3 +1,0 @@
-* Allow changing circle color in dark mode
-* Fix dark text in dark mode
-* Minor enhancements

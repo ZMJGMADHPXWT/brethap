@@ -1,3 +1,0 @@
-Release version: 1.7.24+122
-* Increase maximum exhale time
-* Other minor enhancements

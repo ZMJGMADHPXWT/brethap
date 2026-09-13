@@ -1,3 +1,0 @@
-Release version: 1.7.2+55
-* Update dependencies
-* Minor enhancements

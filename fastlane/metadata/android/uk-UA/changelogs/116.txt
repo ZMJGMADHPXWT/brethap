@@ -1,3 +1,0 @@
-Release version: 1.7.19+116
-* Update dependencies
-* Other minor enhancements

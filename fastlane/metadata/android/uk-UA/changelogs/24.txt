@@ -1,3 +1,0 @@
-* Add box breathing preset
-* Add color preference
-* Minor enhancements

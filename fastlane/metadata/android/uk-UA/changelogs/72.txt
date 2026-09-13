@@ -1,3 +1,0 @@
-Release version: 1.7.5+72
-* UI enhancements
-* Other minor enhancements

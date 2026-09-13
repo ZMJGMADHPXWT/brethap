@@ -1,3 +1,0 @@
-Release version: 1.5.0+30
-* Add audio tones for inhale/exhale
-* Minor enhancements

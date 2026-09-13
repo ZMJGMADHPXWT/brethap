@@ -1,2 +1,0 @@
-* Minor enhancements
-* Added deployed web version to github

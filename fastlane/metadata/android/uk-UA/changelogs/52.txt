@@ -1,3 +1,0 @@
-Release version: 1.7.0+52
-* Wear OS distribution added
-* Minor enhancements

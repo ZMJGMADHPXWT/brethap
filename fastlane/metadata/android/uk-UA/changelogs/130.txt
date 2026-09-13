@@ -1,3 +1,0 @@
-Release version: 1.8.1+130
-* Removed silence audio
-* Other minor enhancements
